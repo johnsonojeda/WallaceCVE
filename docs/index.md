@@ -25,14 +25,16 @@ Por favor ayúdanos a mejorar nuestro curso respondiendo los siguientes cuestion
 Presentación ppt *INSERT LINK TO SLIDES*
 
 ## Datos 
-[Datos de presencia GBIF de *Ara araraura* y variables bioclimáticas WorldClim](https://github.com/johnsonojeda/WallaceCVE/raw/master/data.zip)
+[Datos de presencia GBIF de *Ara ararauna* y variables bioclimáticas WorldClim](https://github.com/johnsonojeda/WallaceCVE/raw/master/data.zip)
 
 ## Introducción a Wallace
 Wallace es una plataforma para modelar nichos y distribuciones de especies modular y reproducible escrita en R. Esta aplicación guía a los usuarios en el proceso analítico desde la adquisición de datos hasta la visualización de las predicciones del modelo por medio de mapas interactivos, integrando esta serie de operaciones complejas en una interfaz gráfica sencilla. 
 
 ### 1.	Antes de utilizar Wallace 
 Asegúrate de que hayas instalado la versión mas reciente tanto de:
+
 -	R (instrucciones para [descarga en Windows y Mac](https://cran.r-project.org/)) 
+
 -	RStudio (instrucciones para [descarga para Windows y Mac](https://rstudio.com/products/rstudio/download/); escoja la versión gratuita).
 
 ### 2.	Instalando Wallace
