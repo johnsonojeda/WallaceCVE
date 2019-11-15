@@ -22,7 +22,7 @@ Por favor ayúdanos a mejorar nuestro curso respondiendo los siguientes cuestion
 -	[Cuestionario post-taller](https://forms.gle/7v8WAuCXZxepJ5ue7)
 
 ## Introducción a modelos de distribución de especies
-Presentación ppt *INSERT LINK TO SLIDES*
+[Diapositivas](WallaceCVE_nov2019.pdf)
 
 ## Datos 
 [Datos de presencia GBIF de *Ara ararauna* y variables bioclimáticas WorldClim](https://github.com/johnsonojeda/WallaceCVE/raw/master/data.zip)
