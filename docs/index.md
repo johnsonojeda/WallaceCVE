@@ -1,10 +1,12 @@
 ---
 title: "XII CVE - Creando modelos de distribución de especies para usos en conservación con Wallace, la nueva aplicación Shiny basada en R"
-date: "7 de diciembre de 2019"
 output: html_document
 ---
+## Horario
+Sábado 7 de diciembre de 2:00 - 4:00 p.m.
+
 ## Webinar 
-Link al webinar disponible [aquí](https://whereby.com/wallacecve)
+El webinar se realizará por medio de la plataforma *Whereby*, por lo que recomendamos se asegure de tener buena conexión de internet. Link disponible [aquí](https://whereby.com/wallacecve)
 
 ## Organizadores: 
 Erica Johnson (City College of New York, CUNY)
