@@ -1,13 +1,13 @@
 ---
 title: "XII CVE - Creando modelos de distribución de especies para usos en conservación con Wallace, la nueva aplicación Shiny basada en R"
-date: "16 de noviembre de 2019"
+date: "7 de diciembre de 2019"
 output: html_document
 ---
-## Lugar: 
-Sala de computación, Centro de computación (entre el pasillo de Control de Estudios y la Sala de Micro), Facultad de Ciencias, Universidad Central de Venezuela.
+## Webinar 
+Link al webinar disponible [aquí](https://whereby.com/wallacecve)
 
 ## Organizadores: 
-Erica Johnson & Gonzalo Pinilla-Buitrago (City College of New York, CUNY)
+Erica Johnson (City College of New York, CUNY)
 
 ## Descripción del taller: 
 
