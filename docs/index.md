@@ -3,21 +3,25 @@ title: "XII CVE - Creando modelos de distribución de especies para usos en cons
 output: html_document
 ---
 ## Horario
-Sábado 7 de diciembre de 2:00 - 4:00 p.m.
+Viernes 14 de febrero de 10:30 a.m. - 12:30 p.m.
 
 ## Webinar 
-El webinar se realizará por medio de la plataforma *Whereby*, por lo que recomendamos se asegure de tener buena conexión de internet. Link disponible [aquí](https://whereby.com/wallacecve)
+El webinar se realizará por medio de la plataforma *Zoom*, por lo que recomendamos se asegure de tener buena conexión de internet y descargar el software [aquí](https://zoom.us/download). 
+
+Una vez descargue Zoom en su computadora puede unirse al webinar siguiente [este link](https://zoom.us/j/623908394?pwd=blFnRVpEMDZuVllSQS9YaVNWM2l3QT09). 
+
 
 ## Organizadores: 
 Erica Johnson (City College of New York, CUNY)
+Gonzalo Pinilla-Buitrago (City College of New York, CUNY)
 
-## Descripción del taller: 
+## Descripción del webinar: 
 
 Los modelos de distribución de especies constituyen una valiosa herramienta para la biología de la conservación, ya que nos permiten estimar los límites de su distribución geográfica actual, así como realizar proyecciones sobre su distribución potencial en otras áreas geográficas o períodos temporales. A pesar de los numerosos avances metodológicos en la construcción y evaluación de este tipo de modelos, el acceso a métodos de vanguardia generalmente se encuentra restringidos a aquellos investigadores con conocimiento de lenguajes de programación, resultando en una barrera para la comunidad científica y otros usuarios. Wallace es una nueva aplicación Shiny para la elaboración de modelos de distribución de especies, basada en el lenguaje de programación R.
 
 Wallace cuenta con una interfaz gráfica que facilita la implementación de técnicas avanzadas para el modelado de distribución de especies. Igualmente, Wallace provee materiales educativos para guiar a usuarios (i.e. viñeta, texto “in-situ”, videos); tanto nuevos como expertos, en las prácticas de modelado, junto a referencias bibliográficas relevantes. Cada sesión de modelado puede ser exportada como un archivo R script documentado con el fin de asegurar su reproducibilidad y facilitar la documentación de resultados. En este taller, presentaremos los fundamentos del modelado de distribuciones utilizando Wallace y demostraremos las características del software, así como sus posibles aplicaciones para la biología de la conservación.
 
-## Cuestionarios pre- y post-taller
+## Cuestionarios pre- y post-webinar
 Por favor ayúdanos a mejorar nuestro curso respondiendo los siguientes cuestionarios:
 
 -	[Cuestionario pre-taller](https://forms.gle/MejQDUqctrK47AGY9)
