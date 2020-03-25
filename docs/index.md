@@ -3,7 +3,7 @@ title: "XII CVE - Creando modelos de distribución de especies para usos en cons
 output: html_document
 ---
 ### Horario
-Viernes 14 de febrero de 10:30 a.m. - 12:30 p.m.
+Viernes 20 de febrero de 10:30 a.m. - 12:30 p.m.
 
 ### Webinar 
 El webinar se realizará por medio de la plataforma *Zoom*, por lo que recomendamos se asegure de tener buena conexión de internet y descargar el software [aquí](https://zoom.us/download). 
